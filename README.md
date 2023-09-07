@@ -1,4 +1,4 @@
-# NETFLIX GPT (By Arpit Tiwari)
+# NETFLIX GPT (By Arpit)
 
     installed create vite app
     configured tailwind with vite
