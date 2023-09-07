@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1 className='text-3xl text-green-100 font-bold underline'>This is Arpit Netflix Gpt App</h1>
+      <h1 className='text-3xl text-green-50 font-bold underline'>This is Arpit Netflix Gpt App</h1>
     </>
   )
 }
